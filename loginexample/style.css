@@ -1,0 +1,11 @@
+.error {
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.success {
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
